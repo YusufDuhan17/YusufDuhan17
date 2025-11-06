@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggPZ9xHgeB4c0x/giphy.gif" width="250" />
-</div>
-
 <h1 align="center">
   Selam! 👋 Ben Yusuf Duhan Şahin
 </h1>
