@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <i>İstanbul Gelişim Üniversitesi'nde <strong>Bilişim Güvenliği Teknolojisi</strong> öğrencisiyim. [kaynak: 331, 351]
+  <i>İstanbul Gelişim Üniversitesi'nde <strong>Bilişim Güvenliği Teknolojisi</strong> öğrencisiyim. 
   <br>
-  Siber güvenlik [kaynak: 331] ve <strong>Python</strong> ile savunma/analiz araçları geliştirmeye odaklandım.
+  Siber güvenlik ve <strong>Python</strong> ile savunma/analiz araçları geliştirmeye odaklandım.
   <br>
   Web teknolojilerini (Flask gibi) bir amaç değil, <strong>güvenli araçlar ve sistemler inşa etmek</strong> için bir araç olarak görüyorum.
   </i>
@@ -16,7 +16,7 @@
 <p align="center">
   🌱 Şu anda <strong>Güvenlik Analizi Araçları</strong> ve <strong>Sistem Otomasyonu</strong> üzerine yoğunlaşıyorum.
   <br>
-  📫 Bana nasıl ulaşırsın: <strong>sahinyusufduhan@gmail.com</strong> [kaynak: 330]
+  📫 Bana nasıl ulaşırsın: <strong>sahinyusufduhan@gmail.com</strong> 
 </p>
 
 ---
@@ -61,8 +61,8 @@
 
 | Proje | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
-| **Tıklama Koruması** | Gelişmiş bir siber güvenlik analiz aracı. URL/IP adreslerini analiz eder, **VirusTotal API** entegrasyonu [kaynak: 62], **WHOIS** [kaynak: 200] ve **SSL** [kaynak: 197] kontrolleri ile oltalama (phishing) [kaynak: 83] saldırılarını tespit eder. | **Python, Tkinter [kaynak: 19], requests, threading** [kaynak: 55] |
-| **Şifre WSY** | Güvenlik odaklı, yerel çalışan bir web şifre yöneticisi. **Askeri düzeyde şifreleme** (Fernet & PBKDF2HMAC) [kaynak: 302] ve akıllı kilitleme [kaynak: 309] mekanizmalarına sahiptir. | **Flask, SQLite [kaynak: 304], Fernet (Kriptografi)** |
+| **Tıklama Koruması** | Gelişmiş bir siber güvenlik analiz aracı. URL/IP adreslerini analiz eder, **VirusTotal API** entegrasyonu , **WHOIS**  ve **SSL**  kontrolleri ile oltalama (phishing)  saldırılarını tespit eder. | **Python, Tkinter, requests, threading**  |
+| **Şifre WSY** | Güvenlik odaklı, yerel çalışan bir web şifre yöneticisi. **Askeri düzeyde şifreleme** (Fernet & PBKDF2HMAC)  ve akıllı kilitleme  mekanizmalarına sahiptir. | **Flask, SQLite , Fernet (Kriptografi)** |
 | **Kuwamedya** | 3 katmanlı (Vitrin, Personel, Admin) kapsamlı bir dijital ajans yönetim platformu. Güvenli giriş, rol bazlı erişim ve **e-learning (akademi) modülü** içerir. | **Flask, PostgreSQL, Docker, JavaScript, Bootstrap 5** |
 | **KartepeIT** | Bir bilişim firması için hazırlanan, modern ve responsive tasarıma sahip statik web sitesi. | **HTML5, CSS3, JavaScript** |
 
