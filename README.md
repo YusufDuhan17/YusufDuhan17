@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Teknoloji & Uzmanlık Alanım
+### 🛠️ Teknoloji & Uzmanlaşmaya çalıştığım alanlar
 
 <p align="center">
   <strong>Güvenlik & Programlama (Security & Programming):</strong>
