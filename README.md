@@ -61,7 +61,7 @@
 
 | Proje | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
-| **Tıklama Koruması** | Gelişmiş bir siber güvenlik analiz aracı. URL/IP adreslerini analiz eder, **VirusTotal API** entegrasyonu , **WHOIS**  ve **SSL**  kontrolleri ile oltalama (phishing)  saldırılarını tespit eder. | **Python, Tkinter, requests, threading**  |
+| **ClickProtection** | Gelişmiş bir siber güvenlik analiz aracı. URL/IP adreslerini analiz eder, **VirusTotal API** entegrasyonu , **WHOIS**  ve **SSL**  kontrolleri ile oltalama (phishing)  saldırılarını tespit eder. | **Python, Tkinter, requests, threading**  |
 | **Şifre WSY** | Güvenlik odaklı, yerel çalışan bir web şifre yöneticisi. **Askeri düzeyde şifreleme** (Fernet & PBKDF2HMAC)  ve akıllı kilitleme  mekanizmalarına sahiptir. | **Flask, SQLite , Fernet (Kriptografi)** |
 | **Kuwamedya** | 3 katmanlı (Vitrin, Personel, Admin) kapsamlı bir dijital ajans yönetim platformu. Güvenli giriş, rol bazlı erişim ve **e-learning (akademi) modülü** içerir. | **Flask, PostgreSQL, Docker, JavaScript, Bootstrap 5** |
 | **KartepeIT** | Bir bilişim firması için hazırlanan, modern ve responsive tasarıma sahip statik web sitesi. | **HTML5, CSS3, JavaScript** |
